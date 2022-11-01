@@ -117,7 +117,7 @@ img {
 }
 
 .header_menu ul li a {
-	color: #000;
+	color: #305049;
 	font-weight: bold;
 	text-transform: uppercase;
 	letter-spacing: .1em;
@@ -237,7 +237,7 @@ img {
 	display: block;
 	width: 60px;
 	height: 3px;
-	background: #000;
+	background: #305049;
 	margin: 2px auto;
 }
 
@@ -246,7 +246,7 @@ img {
 }
 
 .produtos_icone {
-	background: #000;
+	background: #305049;
 	padding: 20px;
 }
 
@@ -264,12 +264,12 @@ img {
 
 .portfolio {
 	width: 100%;
-	background: #000;
+	background: #305049;
 	padding: 40px 0;
 }
 
 .portfolio .subtitulo {
-	color: #fec63e;
+	color: #f77f00;
 }
 
 .portfolio .subtitulo:after {
@@ -353,7 +353,7 @@ img {
 
 .footer {
 	width: 100%;
-	background: #000;
+	background: #fec63e;
 	color: #fff;
 	padding: 20px 0;
 }
